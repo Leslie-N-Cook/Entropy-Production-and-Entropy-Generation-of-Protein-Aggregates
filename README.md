@@ -1,2 +1,2 @@
 # Entropy-Production-and-Entropy-Generation-of-Protein-Aggregates
-Beginning research idea fot Biophysical Models
+Initial research idea for Biophysical Models
